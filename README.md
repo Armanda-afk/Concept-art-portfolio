@@ -2,4 +2,4 @@
 Portfolio based on concept art: characters/enviro/props 
 
 ## Environment design
-![Sci-fi adventure ship]()
+![Sci-fi adventure ship](Destiny_Ship_TS_v009.png)
