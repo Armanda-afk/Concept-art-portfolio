@@ -48,10 +48,13 @@ Inspired real life monks and old history of Japan including fantasy elemental po
 <p align="center">
 Final panel 
 </p>
+
 ![jp monk variations](Characters/Monk/JP_monk_variants.png)
+
 <p align="center">
 variants
 </p>
+
 ![jp monk face-exploration](Characters/Monk/JP_monk_face.png)
 <p align="center">
 Faces mark exploration
