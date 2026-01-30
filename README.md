@@ -22,6 +22,7 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 <p align="center">
     Sketches exploring various buildings and locations, including the destroyed base and repurposed ship.
 </p>
+
 ---
 
 ### Fisherman house
