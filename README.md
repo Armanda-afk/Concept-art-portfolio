@@ -42,16 +42,17 @@ Character inspired by Cyberpunk2077. The main idea was to create
 
 ### Japan monk 
 
-Inspired real life monks and old history of Japan including fantasy elements like elementals powers
+Inspired real life monks and old history of Japan including fantasy elemental powers
 
 ![Jp monk main panel](Characters/Monk/JP_monk_006.png) 
-
+Final panel 
 ![jp monk variations](Characters/Monk/JP_monk_variants.png)
-
+variants
 ![jp monk face-exploration](Characters/Monk/JP_monk_face.png)
-
+Faces mark exploration
 ![jp monk thumbnails](Characters/Monk/JP_monk_sketch.png)
 
+First sketches
 ---
 
 ## Weapons
