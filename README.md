@@ -5,15 +5,15 @@ Portfolio based on concept art: characters/enviro/props
 
 ### Adventure ship
 ![Sci-fi adventure ship](Environment/Sci-fi/Destiny_Ship_TS_v009.png)
-Ship was inspired by Destiny location-Tangled Shore
+
 <p align="center">
-  A once-thriving base, now destroyed after its core was activated, unleashing catastrophic energy throughout the facility. The concept focuses on depicting structural collapse, environmental damage, and the aftermath of a high-tech core meltdown.
+An old, abandoned ship repurposed by a mysterious traveler into a makeshift home. Inspired by the Tangle Shore aesthetic from Destiny, the concept explores improvised living spaces, scavenged technology, and the eerie beauty of a vessel reclaimed by time and ingenuity.
 </p>
 
 ### Main base
 ![TS base](Environment/Sci-fi/Destiny_Base_TS_v010.png)
 <p align="center">
-An old, abandoned ship repurposed by a mysterious traveler into a makeshift home. Inspired by the Tangle Shore aesthetic from Destiny, the concept explores improvised living spaces, scavenged technology, and the eerie beauty of a vessel reclaimed by time and ingenuity.
+    A once-thriving base, now destroyed after its core was activated, unleashing catastrophic energy throughout the facility. The concept focuses on depicting structural collapse, environmental damage, and the aftermath of a high-tech core meltdown.
 </p>
 
 ### Thumbnails
