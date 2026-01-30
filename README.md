@@ -33,23 +33,35 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 ### Blockout 3d
 ![Fisherman blockout](Environment/Fisherman-house/sketch_ver3.png)
 <p align="center">
-    A simple blockout made in blender.
+    Simple blockout made in blender.
 </p>
+
 ---
 
 # Characters
 
 ### Speed-daemon 
 
-Character inspired by Cyberpunk2077. The main idea was to create 
 
 ![Speed-daemon main board](Characters/Speed-daemons/speed_daemon_main_board.png)
+<p align="center">
+A fierce female biker from the SpidDAEMONS gang, known for their love of high-speed racing and underground betting. Confident and daring, she thrives in adrenaline-fueled challenges while navigating the chaotic streets of her city.
+</p>
 
 ![Speed-daemon variants](Characters/Speed-daemons/speed_daemons_variations_panel.png)
+<p align="center">
+Exploring variations highlighting her style, personality, and attitude in racing.
+</p>
 
 ![Speed-daemon face-accesories](Characters/Speed-daemons/speed_daemon_faces_exploration.png)
+<p align="center">
+Exploring face-tech accesories.
+</p>
 
 ![Speed-daemon thumbnails](Characters/Speed-daemons/Variations_from_thumbnails.png)
+<p align="center">
+    Quick sketches from thumbnails.
+</p>
 
 ---
 
@@ -59,21 +71,23 @@ Inspired real life monks and old history of Japan including fantasy elemental po
 
 ![Jp monk main panel](Characters/Monk/JP_monk_006.png) 
 <p align="center">
-Final panel 
+A Japanese-inspired monk wielding an obsidian weapon infused with molten lava, combining disciplined martial arts with elemental fire powers.
 </p>
 
 ![jp monk variations](Characters/Monk/JP_monk_variants.png)
-
 <p align="center">
-variants
+Series of color and accessory variations.
 </p>
 
 ![jp monk face-exploration](Characters/Monk/JP_monk_face.png)
 <p align="center">
-Faces mark exploration
+A single face, inspired by Japanese culture, painted with symbolic marks, exploring visual storytelling and character expression.
 </p>
 
 ![jp monk thumbnails](Characters/Monk/JP_monk_sketch.png)
+<p align="center">
+    Quick sketches exploration.
+</p>
 
 ---
 
@@ -82,5 +96,11 @@ Faces mark exploration
 ### Spears
 
 ![spears practice](Weapons/spear_practice.png)
+<p align="center">
+A detailed study of a spear, focusing on form, proportions, and design elements. This exercise explores realistic weapon anatomy, material textures, and potential in-game functionality.
+</p>
 
 ![spears sketches](Weapons/spear_sketches.png)
+<p align="center">
+Thumbnails
+</p>
