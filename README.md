@@ -1,28 +1,32 @@
 # Concept-art-portfolio - Amanda Molek
 Portfolio based on concept art: characters/enviro/props 
 
-# Environment design
+## Environment design
 
-## Adventure ship
+### Adventure ship
 ![Sci-fi adventure ship](Environment/Sci-fi/Destiny_Ship_TS_v009.png)
 Ship was inspired by Destiny location-Tangled Shore
 
-## Main base
+### Main base
 ![TS base](Environment/Sci-fi/Destiny_Base_TS_v010.png)
 
 
-# Thumbnails
+### Thumbnails
 ![TS sketches](Environment/Sci-fi/Enviro_thumbnails.png)
 
-## Fisherman house
+---
+
+### Fisherman house
 ![Fisherman house](Environment/Fisherman-house/Fisherman_base.png)
 
-# Blockout 3d
+### Blockout 3d
 ![Fisherman blockout](Environment/Fisherman-house/sketch_ver3.png)
 
-## Characters
+---
 
-# Speed-daemon 
+# Characters
+
+### Speed-daemon 
 
 Character inspired by Cyberpunk2077. The main idea was to create 
 
@@ -34,7 +38,9 @@ Character inspired by Cyberpunk2077. The main idea was to create
 
 ![Speed-daemon thumbnails](Characters/Speed-daemons/Variations_from_thumbnails.png)
 
-# Japan monk 
+---
+
+### Japan monk 
 
 Inspired real life monks and old history of Japan including fantasy elements like elementals powers
 
@@ -46,9 +52,11 @@ Inspired real life monks and old history of Japan including fantasy elements lik
 
 ![jp monk thumbnails](Characters/Monk/JP_monk_sketch.png)
 
+---
+
 ## Weapons
 
-# Spears
+### Spears
 
 ![spears practice](Weapons/spear_practice.png)
 
