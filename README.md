@@ -68,8 +68,6 @@ Exploring face-tech accesories.
 
 ### Warior monk 
 
-Inspired real life monks and old history of Japan including fantasy elemental powers
-
 ![Jp monk main panel](Characters/Monk/JP_monk_006.png) 
 <p align="center">
 A Japanese-inspired monk wielding an obsidian weapon infused with molten lava, combining disciplined martial arts with elemental fire powers.
