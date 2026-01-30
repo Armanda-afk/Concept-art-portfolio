@@ -41,7 +41,7 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 
 # Characters
 
-### Speed-daemon 
+### spidDAEMON 
 
 
 ![Speed-daemon main board](Characters/Speed-daemons/speed_daemon_main_board.png)
@@ -66,7 +66,7 @@ Exploring face-tech accesories.
 
 ---
 
-### Japan monk 
+### Warior monk 
 
 Inspired real life monks and old history of Japan including fantasy elemental powers
 
