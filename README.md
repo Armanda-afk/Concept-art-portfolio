@@ -8,17 +8,17 @@ Portfolio based on concept art: characters/enviro/props
 Ship was inspired by Destiny location-Tangled Shore
 
 #Main base
-![TS base](Concept-art-portfolio/Environment/Sci-fi/Destiny_Base_TS_v010.png)
+![TS base](Environment/Sci-fi/Destiny_Base_TS_v010.png)
 
 
 # Thumbnails
-![TS sketches](Concept-art-portfolio/Environment/Sci-fi/Enviro_thumbnails.png)
+![TS sketches](Environment/Sci-fi/Enviro_thumbnails.png)
 
 #Fisherman house
-![Fisherman house](Fisherman_base.png)
+![Fisherman house](Environment/Fisherman-house/Fisherman_base.png)
 
 # Blockout 3d
-![Fisherman blockout](sketch_ver3.png)
+![Fisherman blockout](Environment/Fisherman-house/sketch_ver3.png)
 
 ## Characters
 
@@ -26,30 +26,30 @@ Ship was inspired by Destiny location-Tangled Shore
 
 Character inspired by Cyberpunk2077. The main idea was to create 
 
-![Speed-daemon main board](speed_daemon_main_board.png)
+![Speed-daemon main board](Characters/Speed-daemons/speed_daemon_main_board.png)
 
-![Speed-daemon variants](speed_daemons_variations_panel.png)
+![Speed-daemon variants](Characters/Speed-daemons/speed_daemons_variations_panel.png)
 
-![Speed-daemon face-accesories](speed_daemon_faces_exploration.png)
+![Speed-daemon face-accesories](Characters/Speed-daemons/speed_daemon_faces_exploration.png)
 
-![Speed-daemon thumbnails](Variations_from_thumbnails.png)
+![Speed-daemon thumbnails](Characters/Speed-daemons/Variations_from_thumbnails.png)
 
 # Japan monk 
 
 Inspired real life monks and old history of Japan including fantasy elements like elementals powers
 
-![Jp monk main panel](JP_monk_006.png) 
+![Jp monk main panel](Characters/Monk/JP_monk_006.png) 
 
-![jp monk variations](JP_monk_variants.png)
+![jp monk variations](Characters/Monk/JP_monk_variants.png)
 
-![jp monk face-exploration](JP_monk_face.png)
+![jp monk face-exploration](Characters/Monk/JP_monk_face.png)
 
-![jp monk thumbnails](JP_monk_sketch.png)
+![jp monk thumbnails](Characters/Monk/JP_monk_sketch.png)
 
 ## Weapons
 
 # Spears
 
-![spears practice](spear_practice.png)
+![spears practice](Weapons/spear_practice.png)
 
-![spears sketches](spear_sketches.png)
+![spears sketches](Weapons/spear_sketches.png)
