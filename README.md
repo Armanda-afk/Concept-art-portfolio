@@ -3,7 +3,7 @@ Portfolio based on concept art: characters/enviro/props
 
 ## Environment design
 
-### Adventure ship
+### Abandoned Ship Dwelling
 ![Sci-fi adventure ship](Environment/Sci-fi/Destiny_Ship_TS_v009.png)
 
 <p align="center">
@@ -19,14 +19,22 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 ### Thumbnails
 ![TS sketches](Environment/Sci-fi/Enviro_thumbnails.png)
 
+<p align="center">
+    Sketches exploring various buildings and locations, including the destroyed base and repurposed ship.
+</p>
 ---
 
 ### Fisherman house
 ![Fisherman house](Environment/Fisherman-house/Fisherman_base.png)
+<p align="center">
+    A solitary fisherman’s hut, nestled in the abandoned swamplands of a remote island. The design explores isolation and survival, showing how the inhabitant has adapted to the harsh, marshy environment while maintaining a humble, functional home.
+</p>
 
 ### Blockout 3d
 ![Fisherman blockout](Environment/Fisherman-house/sketch_ver3.png)
-
+<p align="center">
+    A simple blockout made in blender.
+</p>
 ---
 
 # Characters
