@@ -4,15 +4,15 @@ Portfolio based on concept art: characters/enviro/props
 ## Environment design
 
 #Adventure ship
-![Sci-fi adventure ship](Destiny_Ship_TS_v008.png)
+![Sci-fi adventure ship](Enviroment/Sci-fi/Destiny_Ship_TS_v008.png)
 Ship was inspired by Destiny location-Tangled Shore
 
 #Main base
-![TS base](Destiny_Base_TS_v010.png)
+![TS base](Enviroment/Sci-fi/Destiny_Base_TS_v010.png)
 
 
 # Thumbnails
-![TS sketches](Enviro_thumbnails.png)
+![TS sketches](Enviroment/Sci-fi/Enviro_thumbnails.png)
 
 #Fisherman house
 ![Fisherman house](Fisherman_base.png)
