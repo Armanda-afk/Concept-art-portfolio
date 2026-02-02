@@ -1,6 +1,14 @@
 # Concept-art-portfolio - Amanda Molek
 Portfolio based on concept art: characters/enviro/props 
 
+<h3>Description</h3>
+
+[Environment](#environment-design)<br>
+[Characters](#characters)<br>
+[Weapons](#weapons)<br>
+
+&nbsp;
+
 ## Environment design
 
 ### Abandoned Ship Dwelling
@@ -39,7 +47,9 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 
 ---
 
-# Characters
+&nbsp;
+
+<h2>Characters</h2>
 
 ### spidDAEMON 
 
@@ -90,7 +100,9 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
 
 ---
 
-## Weapons
+&nbsp;
+
+<h2>Weapons</h2>
 
 ### Dagger Kali
 
