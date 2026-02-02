@@ -1,7 +1,7 @@
 # Concept-art-portfolio - Amanda Molek
 Portfolio based on concept art: characters/enviro/props 
 
-<h3>Description</h3>
+<h3>Overview</h3>
 
 [Environment](#environment-design)<br>
 [Characters](#characters)<br>
