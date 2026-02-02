@@ -92,8 +92,16 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
 
 ## Weapons
 
-### Spears
+### Dagger Kali
 
+![Dagger Kali](Weapons/Kali-005.png)
+<p align="center">
+    A dagger inspired by the goddess Kali, reimagined with a turban to emphasize restraint, authority, and focused divine power. Dark ritual details and a red accent evoke death, power, and Shakti. Designed as a ceremonial artifact rather than a conventional weapon.
+</p>
+
+---
+
+### Spears
 ![spears practice](Weapons/spear_practice.png)
 <p align="center">
 A detailed study of a spear, focusing on form, proportions, and design elements. This exercise explores realistic weapon anatomy, material textures, and potential in-game functionality.
