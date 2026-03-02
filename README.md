@@ -7,11 +7,21 @@
 <h3 align="center">Fast travel</h3>
 
 
-
+<div align="center">
+  <a href="#environment-design">
+    <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Enviro_button.png">
+  </a>
+  <a href="#characters">
+    <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Characters_button.png">
+  </a>
+  <a href="#weapons">
+    <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Weapons_button.png">
+  </a>
+</div>
 
 &nbsp;
 
-## Environment design
+<h2 align="center"> Environment design</h2>
 
 &nbsp;
 
@@ -36,6 +46,8 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 </p>
 
 ---
+<br>
+<br>
 
 ### Fisherman house
 ![Fisherman house](Fisherman_JPG/Fisherman_base.jpg)
@@ -49,11 +61,13 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
     Simple blockout made in blender.
 </p>
 
----
 
+<br>
+<br>
+<br>
 &nbsp;
 
-<h2>Characters</h2>
+<h2 align="center">Characters</h2>
 
 &nbsp;
 
@@ -81,6 +95,8 @@ Exploring face-tech accesories.
 </p>
 
 ---
+<br>
+<br>
 
 ### Warior monk 
 
@@ -104,11 +120,14 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
     Quick sketches exploration.
 </p>
 
----
+
 
 &nbsp;
 
-<h2>Weapons</h2>
+<br>
+<br>
+<br>
+<h2 align="center">Weapons</h2>
 
 &nbsp;
 
@@ -118,8 +137,8 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
 <p align="center">
     A dagger inspired by the goddess Kali, reimagined with a turban to emphasize restraint, authority, and focused divine power. Dark ritual details and a red accent evoke death, power, and Shakti. Designed as a ceremonial artifact rather than a conventional weapon.
 </p>
-
----
+<br>
+<br>
 
 ### Spears
 ![spears practice](Weapons_JPG/spear_practice.jpg)
