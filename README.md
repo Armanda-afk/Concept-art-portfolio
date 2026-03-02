@@ -8,13 +8,13 @@
 
 
 <div align="center">
-  <a href="#environment-design" style="scroll-behavior: smooth">
+  <a href="#environment-design">
     <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Enviro_button.png">
   </a>
-  <a href="#characters" style="scroll-behavior: smooth">
+  <a href="#characters">
     <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Characters_button.png">
   </a>
-  <a href="#weapons" style="scroll-behavior: smooth">
+  <a href="#weapons">
     <img src="https://github.com/Armanda-afk/Concept-art-portfolio/blob/main/Weapons_button.png">
   </a>
 </div>
