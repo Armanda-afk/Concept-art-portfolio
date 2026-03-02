@@ -1,31 +1,35 @@
-# Concept-art-portfolio - Amanda Molek
-Portfolio based on concept art: characters/enviro/props 
 
-<h3>Overview</h3>
+<h1 align="center">Concept-art-portfolio - Amanda Molek</h1>
+<h5 align="center">Portfolio based on concept art: characters/enviro/props</h5>
 
-[Environment](#environment-design)<br>
-[Characters](#characters)<br>
-[Weapons](#weapons)<br>
+
+
+<h3 align="center">Fast travel</h3>
+
+
+
 
 &nbsp;
 
 ## Environment design
 
+&nbsp;
+
 ### Abandoned Ship Dwelling
-![Sci-fi adventure ship](Environment/Sci-fi/Destiny_Ship_TS_v009.png)
+![Sci-fi adventure ship](Sci-fi_JPG/Destiny_Ship_TS_v009.jpg)
 
 <p align="center">
 An old, abandoned ship repurposed by a mysterious traveler into a makeshift home. Inspired by the Tangle Shore aesthetic from Destiny, the concept explores improvised living spaces, scavenged technology, and the eerie beauty of a vessel reclaimed by time and ingenuity.
 </p>
 
 ### Main base
-![TS base](Environment/Sci-fi/Destiny_Base_TS_v010.png)
+![TS base](Sci-fi_JPG/Destiny_Base_TS_v010.jpg)
 <p align="center">
     A once-thriving base, now destroyed after its core was activated, unleashing catastrophic energy throughout the facility. The concept focuses on depicting structural collapse, environmental damage, and the aftermath of a high-tech core meltdown.
 </p>
 
 ### Thumbnails
-![TS sketches](Environment/Sci-fi/Enviro_thumbnails.png)
+![TS sketches](Sci-fi_JPG/Enviro_thumbnails.jpg)
 
 <p align="center">
     Sketches exploring various buildings and locations, including the destroyed base and repurposed ship.
@@ -34,13 +38,13 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 ---
 
 ### Fisherman house
-![Fisherman house](Environment/Fisherman-house/Fisherman_base.png)
+![Fisherman house](Fisherman_JPG/Fisherman_base.jpg)
 <p align="center">
     A solitary fisherman’s hut, nestled in the abandoned swamplands of a remote island. The design explores isolation and survival, showing how the inhabitant has adapted to the harsh, marshy environment while maintaining a humble, functional home.
 </p>
 
 ### Blockout 3d
-![Fisherman blockout](Environment/Fisherman-house/sketch_ver3.png)
+![Fisherman blockout](Fisherman_JPG/sketch_ver3.jpg)
 <p align="center">
     Simple blockout made in blender.
 </p>
@@ -51,25 +55,27 @@ An old, abandoned ship repurposed by a mysterious traveler into a makeshift home
 
 <h2>Characters</h2>
 
+&nbsp;
+
 ### spidDAEMON 
 
 
-![Speed-daemon main board](Characters/Speed-daemons/speed_daemon_main_board.png)
+![Speed-daemon main board](Speed_daemon_JPG/speed_daemon_main_board.jpg)
 <p align="center">
 A fierce female biker from the SpidDAEMONS gang, known for their love of high-speed racing and underground betting. Confident and daring, she thrives in adrenaline-fueled challenges while navigating the chaotic streets of her city.
 </p>
 
-![Speed-daemon variants](Characters/Speed-daemons/speed_daemons_variations_panel.png)
+![Speed-daemon variants](Speed_daemon_JPG/speed_daemons_variations_panel.jpg)
 <p align="center">
 Exploring variations highlighting her style, personality, and attitude in racing.
 </p>
 
-![Speed-daemon face-accesories](Characters/Speed-daemons/speed_daemon_faces_exploration.png)
+![Speed-daemon face-accesories](Speed_daemon_JPG/speed_daemon_faces_exploration.jpg)
 <p align="center">
 Exploring face-tech accesories.
 </p>
 
-![Speed-daemon thumbnails](Characters/Speed-daemons/Variations_from_thumbnails.png)
+![Speed-daemon thumbnails](Speed_daemon_JPG/Variations_from_thumbnails.jpg)
 <p align="center">
     Quick sketches from thumbnails.
 </p>
@@ -78,22 +84,22 @@ Exploring face-tech accesories.
 
 ### Warior monk 
 
-![Jp monk main panel](Characters/Monk/JP_monk_006.png) 
+![Jp monk main panel](Monk_JPG/JP_monk_006.jpg) 
 <p align="center">
 A Japanese-inspired monk wielding an obsidian weapon infused with molten lava, combining disciplined martial arts with elemental fire powers.
 </p>
 
-![jp monk variations](Characters/Monk/JP_monk_variants.png)
+![jp monk variations](Monk_JPG/JP_monk_variants.jpg)
 <p align="center">
 Series of color and accessory variations.
 </p>
 
-![jp monk face-exploration](Characters/Monk/JP_monk_face.png)
+![jp monk face-exploration](Monk_JPG/JP_monk_face.jpg)
 <p align="center">
 A single face, inspired by Japanese culture, painted with symbolic marks, exploring visual storytelling and character expression.
 </p>
 
-![jp monk thumbnails](Characters/Monk/JP_monk_sketch.png)
+![jp monk thumbnails](Monk_JPG/JP_monk_sketch.jpg)
 <p align="center">
     Quick sketches exploration.
 </p>
@@ -104,9 +110,11 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
 
 <h2>Weapons</h2>
 
+&nbsp;
+
 ### Dagger Kali
 
-![Dagger Kali](Weapons/Kali-005.png)
+![Dagger Kali](Weapons_JPG/Kali-005.jpg)
 <p align="center">
     A dagger inspired by the goddess Kali, reimagined with a turban to emphasize restraint, authority, and focused divine power. Dark ritual details and a red accent evoke death, power, and Shakti. Designed as a ceremonial artifact rather than a conventional weapon.
 </p>
@@ -114,12 +122,12 @@ A single face, inspired by Japanese culture, painted with symbolic marks, explor
 ---
 
 ### Spears
-![spears practice](Weapons/spear_practice.png)
+![spears practice](Weapons_JPG/spear_practice.jpg)
 <p align="center">
 A detailed study of a spear, focusing on form, proportions, and design elements. This exercise explores realistic weapon anatomy, material textures, and potential in-game functionality.
 </p>
 
-![spears sketches](Weapons/spear_sketches.png)
+![spears sketches](Weapons_JPG/spear_sketches.jpg)
 <p align="center">
 Thumbnails
 </p>
